@@ -1,3 +1,6 @@
-# 11-08-P-gina-da-internet-html
-Construção de uma página da internet utilizando o sublime tex
-file:///C:/Users/PC/Desktop/Joseane/Jose.html
+<!doctype html>
+<html charset="uft-8">
+<head>
+<title> Meio Ambiente </title>
+</head>
+<body>
